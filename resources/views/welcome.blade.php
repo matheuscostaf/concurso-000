@@ -6,5 +6,4 @@
     <div>
         <img src="img/concurso.jpg">
     </div>
-    
 @endsection
